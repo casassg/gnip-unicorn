@@ -28,6 +28,14 @@ Simple as that.
 
 4. Click "Choose Winner"
 
+### GitHub pages deployment
+
+1. Fork repository.
+2. Go to forked repository `Settings`.
+3. Go to `Pages`, Select branch `main` and folder `root`.
+4. `Save`
+5. Wait for deploy to happen. It will show you the URL used at `Pages` tab.
+
 ## Features
 
 - Rainbow-colored names that rotate around the unicorn
